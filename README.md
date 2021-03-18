@@ -13,10 +13,12 @@ ifup vwan1 && ifup vwan2 && ifup vwan3
 giwifi -g 10.254.0.1 -u 11111111111 -p 23456
 ```
 其中的以下参数需改为你自己的数据
-网关：10.254.0.1。
-账号：11111111111。
-密码：23456。
-记得修改为你自己的账号和密码，以及正确的网关
+
+- 网关：10.254.0.1。
+- 账号：11111111111。
+- 密码：23456。
+- 记得修改为你自己的账号和密码，以及正确的网关
+
 而giwifi这个则是 https://github.com/icepie/giwifi-gear/tree/sh 的脚本。下载这个脚本，然后将其giwifi-gear.sh改为giwifi,同时在linux或MacOS终端输入`chmod +x giwifi`将其变为可执行文件
 
 
