@@ -5,6 +5,9 @@
 
 [giwifi-gear](https://github.com/icepie/giwifi-gear)由`icepie`编写
 
+
+----------
+
 自动多拨Giwifi和账号认证
 
 这只是一个简单的shell脚本
