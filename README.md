@@ -1,10 +1,9 @@
 # Fuck-giwifi
 自动多拨Giwifi和账号认证
 
-### 感谢 giwifi-gear
+## 感谢 giwifi-gear
 
 [giwifi-gear](https://github.com/icepie/giwifi-gear)由`icepie`编写
-
 
 ----------
 
@@ -30,8 +29,9 @@ giwifi -g 10.254.0.1 -u 11111111111 -p 23456
 
 而giwifi这个则是 https://github.com/icepie/giwifi-gear/tree/sh 的脚本。下载这个脚本，然后将其giwifi-gear.sh改为giwifi,同时在linux或MacOS终端输入`chmod +x giwifi`将其变为可执行文件
 
+----------
 
-完整代码：需修改网关和账号密码
+### 完整代码：需修改网关和账号密码
 ```sh
 #!/bin/bash
 
