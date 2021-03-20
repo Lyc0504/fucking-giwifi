@@ -1,6 +1,8 @@
 # Fuck-giwifi
 自动多拨Giwifi和账号认证
 
+### [完整文章](https://iouyi.top/index.php/archives/fuck-giwifi.html)
+
 ## 感谢 giwifi-gear
 
 [giwifi-gear](https://github.com/icepie/giwifi-gear)由`icepie`编写
