@@ -55,11 +55,10 @@ ifup vwan1 && ifup vwan2 && ifup vwan3
 
 echo "Start deamo running giwifi"
 # if down, will be reboot again!
-for ((i=1;i<=2;i)) do {
+while :
+do
     sleep 2;
     giwifi -g 10.254.0.1 -u 11111111111 -p 23456 -d
-}
-
 done
 
 echo "Fuck !"
