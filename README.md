@@ -1,4 +1,4 @@
-# Fuck-giwifi
+# Fucking-giwifi
 自动多拨Giwifi和账号认证
 
 ### [完整文章](https://iouyi.top/index.php/archives/fuck-giwifi.html)
